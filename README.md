@@ -1,4 +1,5 @@
 # Travel
+Mikołaj Myrlak
 
 Użyte technologie:
   - HMLT 
